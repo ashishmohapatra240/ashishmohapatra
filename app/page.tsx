@@ -1,7 +1,8 @@
+import { Hero } from "@/app/sections/Hero";
 export default function Home() {
   return (
-    <div>
-      <h1>Hello World</h1>
-    </div>
+    <main>
+      <Hero />
+    </main>
   );
 }
