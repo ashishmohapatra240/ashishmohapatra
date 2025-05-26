@@ -1,1 +1,50 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+@font-face {
+  font-family: 'Sequel Sans Bold';
+  src: url('/fonts/Sequel Sans Bold Disp.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sequel Sans Book';
+  src: url('/fonts/Sequel Sans Book Disp.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sequel Sans Light';
+  src: url('/fonts/Sequel Sans Light Disp.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sequel Sans Roman';
+  src: url('/fonts/Sequel Sans Roman Disp.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sequel Sans Semi Bold';
+  src: url('/fonts/Sequel Sans Semi Bold Disp.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+:root {
+  --font-sequel: 'Sequel Sans Roman', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}
+
+body {
+  font-family: var(--font-sequel);
+}
+
+.code {
+  font-family: var(--font-mono);
+}
