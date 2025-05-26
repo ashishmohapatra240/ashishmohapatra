@@ -22,7 +22,7 @@ export function ClientReview() {
           />
         ))}
       </div>
-      <p className="font-medium text-[8px] sm:text-[14px] md:text-[16px] max-w-[120px]">
+      <p className="font-medium text-[8px] sm:text-[14px] md:text-[16px] max-w-[120px] md:max-w-[400px]">
         Trusted by over <span className="font-bold">30+</span> clients all over
         the world
       </p>
