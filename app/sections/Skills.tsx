@@ -27,12 +27,8 @@ export function Skills() {
             </div>
           </div>
 
-          <p className="text-gray-600 text-[16px] md:text-[18px] leading-relaxed mt-6">
-            I&apos;ve consistently built projects for over the past 3 years and
-            can build a product end to end. From a user centric aesthetically
-            good UI, to coding pixel perfect frontend, from writing secure API
-            endpoints in backend, to deploying and scaling according to the
-            users.
+          <p className="text-gray-600 text-[16px] md:text-[18px] tracking-tight leading-relaxed mt-6">
+          Writing clean and maintainable code is always my second priority, first will always be making sure it works on my machine. Your crush’s text might be DRY, but so does my coding ethics. The pH of the code while building a transaction app, will always be below 7 because it has ACID properties. I’ve a peak WPM of 100, basically my code has runtime errors before I finish typing it.
           </p>
         </div>
 

@@ -28,12 +28,8 @@ export function Testimonials() {
             </div>
           </div>
 
-          <p className="text-gray-600 text-[16px] md:text-[18px] leading-relaxed mt-6">
-            I&apos;ve consistently built projects for over the past 3 years and
-            can build a product end to end. From a user centric aesthetically
-            good UI, to coding pixel perfect frontend, from writing secure API
-            endpoints in backend, to deploying and scaling according to the
-            users.
+          <p className="text-gray-600 text-[16px] md:text-[18px] tracking-tight leading-relaxed mt-6">
+          People have said things, some of it was good and some of it was just “bro wtf.” These are messages from my manager, clients, seniors and people I’ve worked with, people who have made me realise why Slack communications are called Huddle (Hurdle). I would want my mother in law to be a software developer, so that I could call her my SaaS.
           </p>
         </div>
 

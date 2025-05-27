@@ -28,12 +28,8 @@ export function Hackathons() {
             </div>
           </div>
 
-          <p className="text-gray-600 text-[16px] md:text-[18px] leading-relaxed mt-6">
-            I&apos;ve consistently built projects for over the past 3 years and
-            can build a product end to end. From a user centric aesthetically
-            good UI, to coding pixel perfect frontend, from writing secure API
-            endpoints in backend, to deploying and scaling according to the
-            users.
+          <p className="text-gray-600 text-[16px] md:text-[18px] tracking-tight leading-relaxed mt-6">
+          Always spent more time discussing team name than the actual product then end up making up a teamname with team members initials, once I had a team of Ashish, Swastik and Samikshya, the team name was terrible. We won a hackathon once because our app didn&apos;t crash during the demo, that&apos;s it, that was the innovation. We didn&apos;t write tests, but we did write a README. We never had a working backend, so we hardcoded the data, still better than some real startups. Took part in Hackathons so much that I love working under pressure because what&apos;s work when it&apos;s not done under pressure and delivers on time before time. So good at delivering before time that Zepto and Blinkit are fighting over me.
           </p>
         </div>
 
