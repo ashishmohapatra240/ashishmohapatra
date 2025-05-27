@@ -1,11 +1,13 @@
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
+import { FaXTwitter, FaMedium } from "react-icons/fa6";
 import { SiLeetcode } from "react-icons/si";
 
 const socialLinks = [
   { icon: FaLinkedin, href: "#", label: "LinkedIn" },
-  { icon: FaTwitter, href: "#", label: "Twitter" },
+  { icon: FaXTwitter, href: "#", label: "Twitter" },
   { icon: FaGithub, href: "#", label: "GitHub" },
   { icon: SiLeetcode, href: "#", label: "LeetCode" },
+  { icon: FaMedium, href: "#", label: "Medium" },
   { icon: FaInstagram, href: "#", label: "Instagram" },
 ];
 
