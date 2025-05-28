@@ -6,7 +6,7 @@ import { experiences } from "../data/work-experience";
 export function WorkExperience() {
   return (
     <section className="py-16 lg:py-24">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-[32px] md:text-[40px] lg:text-[48px] leading-[120%] font-sans font-medium tracking-tighter mb-12">
           Work Experience
         </h2>

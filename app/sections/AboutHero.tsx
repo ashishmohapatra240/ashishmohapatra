@@ -6,7 +6,7 @@ import { RoundedImage } from "@/components/ui/rounded-image";
 export function AboutHero() {
   return (
     <section className="pt-16 lg:pt-24">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-6xl mx-auto px-6">
         {/* Header */}
         <div className="mb-12">
           <Chip className="text-gray-700 mb-6">About</Chip>

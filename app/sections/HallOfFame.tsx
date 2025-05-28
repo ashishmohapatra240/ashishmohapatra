@@ -7,7 +7,7 @@ import Image from "next/image";
 export function HallOfFame() {
   return (
     <section className="min-h-screen py-16 lg:py-24">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-6xl mx-auto px-6">
         {/* Header */}
         <div className="mb-12">
           <Chip className="text-gray-700 mb-6">Hall of Fame</Chip>

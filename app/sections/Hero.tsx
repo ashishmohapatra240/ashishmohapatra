@@ -5,7 +5,7 @@ import { SocialLinks } from "@/components/ui/social-links";
 
 export function Hero() {
   return (
-    <div className="bg-white max-w-7xl mx-auto">
+    <div className="bg-white max-w-6xl mx-auto">
       <div className="min-h-[80dvh] flex flex-col justify-center">
         <section className="w-full px-6 py-16 lg:py-24">
           <div className="flex flex-col lg:flex-row gap-12 items-start lg:items-center">

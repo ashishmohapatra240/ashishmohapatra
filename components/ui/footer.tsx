@@ -3,7 +3,7 @@ import { SocialLinks } from "./social-links";
 export function Footer() {
   return (
     <footer className="bg-[#24292F] border-t border-[#E5E5E5] py-16">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-6xl mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Brand Section */}
           <div className="lg:col-span-2">

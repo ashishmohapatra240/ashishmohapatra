@@ -8,7 +8,7 @@ import { testimonials } from "../data/testimonials";
 export function Testimonials() {
   return (
     <section className="min-h-screen py-16 lg:py-24">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-6xl mx-auto px-6">
         {/* Header */}
         <div className="mb-12">
           <Chip className="text-gray-700 mb-6">Testimonials</Chip>
